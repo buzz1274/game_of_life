@@ -1,0 +1,22 @@
+div#main {
+    margin:0 auto;
+    width:800px;
+}
+canvas#canvas {
+    border:1px solid #000000;
+}
+h1 {
+    margin:0;
+    padding:0;
+    font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+    font-size:1.2em;
+}
+h1#turn_counter {
+    float:right;
+}
+div#controls {
+    margin-top:20px;
+}
+button#restart {
+    float:right;
+}
